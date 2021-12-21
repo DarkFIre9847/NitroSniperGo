@@ -1,6 +1,6 @@
 {
   "tokens": {
-    "main": "",
+    "main": "OTA0MzM3NDYyMzU5MzcxNzc4.YcFqvg.vGRHK_g_N3Xv2G5UY_2g19c4l4g",
     "alts": [
       ""
     ]
@@ -43,7 +43,7 @@
     "enable": false
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/914325586850226268/Y3Rl2_wgpA_YgyfDkWSlX_0a1OGKJRSW9ezKkV388Z57uUeKlSZM20ki6iAlu7G9MHMy",
     "good_only": false
   },
   "blacklist_servers": []
